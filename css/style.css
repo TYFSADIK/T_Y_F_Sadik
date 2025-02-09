@@ -10,18 +10,12 @@ body.dark-theme {
   --primary-color: #6c757d;
 }
 
-body {
-  background-color: var(--bg-color);
+.btn {
+  background-color: var(--primary-color);
   color: var(--text-color);
-  transition: background 0.3s ease;
 }
 
-/*
- * Author by FreeHTML5.co
- * Twitter: https://twitter.com/fh5co
- * Facebook: https://fb.com/fh5co
- * URL: https://freehtml5.co
- */
+
 /* Fonts */
 @font-face {
   font-family: 'Calisto-MT';
