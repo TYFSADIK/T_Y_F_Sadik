@@ -4,7 +4,7 @@
   --primary-color: #007bff;
 }
 
-[data-theme="dark"] {
+body.dark-theme {
   --bg-color: #1a1a1a;
   --text-color: #ffffff;
   --primary-color: #6c757d;
